@@ -5,7 +5,7 @@ A set of batch and powershell scripts that allow for automatic Minecraft Server 
 0. Make sure that you have installed the latest version of Java for the Minecraft server jar.
 1. Place Launcher.bat and Updater.ps1 in your desired Minecraft Server folder.
 2. Edit server settings in launcher.bat (optional).
-3. Run the Launcher.bat to start the server.
+3. Run the Launcher.bat to start the server with a GUI and 2-4 GB of RAM.
 
 # VLAN Support
 If you desire, you can uncomment the "rem VLAN" lines in Launcher.bat to enable support for a VLAN program. I have left my settings for ZeroTier, but you can also insert settings for your own VLAN setup.
